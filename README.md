@@ -49,6 +49,7 @@ Added comprehensive validation for all new rules
         "📚 Education & Learning (academic subjects, skill tutorials, explanations)",
         "🌍 Travel & Adventure (destination guides, travel vlogs, cultural exploration)",
         "💼 Business & Professional (presentations, interviews, workplace tips)"
+        "Healthcare & Caregiving Services (health consultation, travel visitS)
       ],
       "information_gathering": [
         "What is your content domain? (e.g., cooking, fitness, gaming, education, etc.)",
